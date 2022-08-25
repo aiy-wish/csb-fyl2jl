@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9688f35c7e8dc4fd0fe7027bd4f6663",
+    "revision": "fc684d01e81d3bd826aa70bd4e66963f",
     "url": "https://.github.io/csb-fyl2jl/index.html"
   },
   {
-    "revision": "b1f4a951a22ab5472bc5",
+    "revision": "62963419fa40c931c180",
     "url": "https://.github.io/csb-fyl2jl/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "9153f751662b13516864",
+    "revision": "fbb4cb6af5a9f239f0fe",
     "url": "https://.github.io/csb-fyl2jl/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "2a3bf69b49fea8142a1a",
+    "revision": "cbd99346457832835031",
     "url": "https://.github.io/csb-fyl2jl/static/css/main.7c14e544.chunk.css"
   },
   {
-    "revision": "a29c51abe223057fdbd6",
-    "url": "https://.github.io/csb-fyl2jl/static/js/2.ef3debb8.chunk.js"
+    "revision": "bb0d00783e8901f6c234",
+    "url": "https://.github.io/csb-fyl2jl/static/js/2.bc0ff76d.chunk.js"
   },
   {
     "revision": "408f8ade359af8695a328ed937291fdf",
-    "url": "https://.github.io/csb-fyl2jl/static/js/2.ef3debb8.chunk.js.LICENSE.txt"
+    "url": "https://.github.io/csb-fyl2jl/static/js/2.bc0ff76d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b1f4a951a22ab5472bc5",
-    "url": "https://.github.io/csb-fyl2jl/static/js/3.1c8ed7cd.chunk.js"
+    "revision": "62963419fa40c931c180",
+    "url": "https://.github.io/csb-fyl2jl/static/js/3.735783e7.chunk.js"
   },
   {
-    "revision": "9153f751662b13516864",
-    "url": "https://.github.io/csb-fyl2jl/static/js/4.7d6f7104.chunk.js"
+    "revision": "fbb4cb6af5a9f239f0fe",
+    "url": "https://.github.io/csb-fyl2jl/static/js/4.d2506c43.chunk.js"
   },
   {
-    "revision": "2a3bf69b49fea8142a1a",
-    "url": "https://.github.io/csb-fyl2jl/static/js/main.f516f725.chunk.js"
+    "revision": "cbd99346457832835031",
+    "url": "https://.github.io/csb-fyl2jl/static/js/main.956a32f4.chunk.js"
   },
   {
-    "revision": "7c767621aaa3597c5fc4",
-    "url": "https://.github.io/csb-fyl2jl/static/js/runtime-main.d19ae722.js"
+    "revision": "177d691c0c7df1ce60af",
+    "url": "https://.github.io/csb-fyl2jl/static/js/runtime-main.220ee03c.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -88,7 +88,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://.github.io/csb-fyl2jl/static/media/talksCardBack.13780cdd.svg"
   },
   {
-    "revision": "24164c91e179cecd59e5d79e748a32c0",
-    "url": "https://.github.io/csb-fyl2jl/static/media/tcg.24164c91.png"
+    "revision": "905149d5738be0eda53b717e2695b3a9",
+    "url": "https://.github.io/csb-fyl2jl/static/media/tcg.905149d5.png"
   }
 ]);
